@@ -1,0 +1,28 @@
+name: Performers - Entertainers - Circus - Events
+favicon: null
+layout_spectrum: 0.29034394258633256
+typography_spectrum: 0.314665314508602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7076168225612491
+  lightness: 0.2650747278239578
+  saturation: 0.6464473376981914
+  rhythmicContrast: 0.4464193682651967
+purpose: []
