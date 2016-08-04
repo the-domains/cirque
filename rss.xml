@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Performers - Entertainers - Circus - Events]]></title>
         <description><![CDATA[Performers - Entertainers - Circus - Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cirque/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 02:04:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 18:54:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cirque/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffb118a9-a054-4092-9fbc-315c06f7b4f6.jpg">]]></description>
-            <link>undefined01799247-081e-4c2e-9f8f-ddb067937b4c/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e6a34209c9dfa962f9b808839087c78820924bb.jpg">]]></description>
+            <link>https://thegrid.ai/cirque/01799247-081e-4c2e-9f8f-ddb067937b4c/index.html</link>
             <guid isPermaLink="false">01799247-081e-4c2e-9f8f-ddb067937b4c</guid>
-            <pubDate>Sun, 28 Feb 2016 02:03:38 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 18:54:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
