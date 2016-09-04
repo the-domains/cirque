@@ -1,19 +1,4 @@
-name: Performers - Entertainers - Circus - Events
-favicon: null
-layout_spectrum: 0.29034394258633256
 typography_spectrum: 0.314665314508602
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,23 @@ color:
   lightness: 0.2650747278239578
   saturation: 0.6464473376981914
   rhythmicContrast: 0.4464193682651967
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.29034394258633256
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Performers - Entertainers - Circus - Events
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Spark Fire Dance
+    url: 'http://sparkfiredance.com'
+    type: external
+favicon: null
 purpose: []
